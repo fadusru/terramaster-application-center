@@ -2,6 +2,7 @@
 
 * [На главную](/)
 * [О проекте](/README.md)
+* [Работоспособность после установки](/resources/functionality-after-installation.md)
 * [Медиаразвлечения](/resources/media-entertainment/README.md)
 * [Фотография и видео](/resources/photo-and-video/README.md)
 * [Резервное копирование и синхронизация](/resources/backup-and-synchronization/README.md)
